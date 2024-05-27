@@ -1,5 +1,6 @@
 # discord-webhookspam
 
 ライブラリのインストール
-
-`pip install aiohttp`
+```
+pip install aiohttp
+```
